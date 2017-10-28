@@ -27,6 +27,8 @@
     "angular": "^1.6.6",
     "angular-chart.js": "^1.1.1",
     "bootstrap": "^3.3.7",
-    "jquery": "^3.2.1"
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "python-shell": "^0.4.0"
   }
 }
