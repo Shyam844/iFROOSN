@@ -8,13 +8,6 @@ var PythonShell = require('python-shell');
 var router = express.Router();
 var hostname = 'localhost';
 var port = 8000;
-// var pool = mysql.createPool({
-//     connectionLimit: 10,
-//     host: hostname,
-//     user: 'root',
-//     password: '',
-//     database: 'ifroosn'
-// });
 var app = express();
 // app.use(bodyParser.urlencoded({ extended: false }));
 // app.use(bodyParser.json());
